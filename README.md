@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juan camilo bernal marin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan camilo bernal marin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-camilo-bernal-marin-40933323a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan camilo bernal marin" height="30" width="40" /></a>
 <a href="https://instagram.com/juancbmarin9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juancbmarin9" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/juancbmarin09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="juancbmarin09" height="30" width="40" /></a>
 </p>
